@@ -1,27 +1,7 @@
-<div id="container">
-
-<div id="header">
 
 # Controller Pins
 
 ## SpectraLight 0200 Parallel Port Control
-
-</div>
-
-<div id="navigation">
-
-*   [Home](/site/)
-*   [Adapter Cable](/site/spectralight0200parallelportadapter/)
-*   [Adapter Board](/site/adapterboard/)
-*   [control_box_internals](/site/controlboxinternals/)
-*   [EMC2 Configuration](/site/emc2configuration/)
-*   [Controller Pins](/site/reverseengineeringthecontroller/)
-*   [Interface Card Pins](/site/spectralight0200protocol/)
-*   [Unexpected clock](/site/strangeplacetoputaclock/)
-
-</div>
-
-<div id="content">
 
 # Electrical interface for the SpectraLight 0200 Controller
 
