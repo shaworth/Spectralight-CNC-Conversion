@@ -1,19 +1,5 @@
-<div id="container">
-
-<div id="header">
-
-# Home
-
-## SpectraLight 0200 Parallel Port Control
-
-*   [Home](/site/)
-*   [Adapter Cable](/site/spectralight0200parallelportadapter/)
-*   [Adapter Board](/site/adapterboard/)
-*   [control_box_internals](/site/controlboxinternals/)
-*   [EMC2 Configuration](/site/emc2configuration/)
-*   [Controller Pins](/site/reverseengineeringthecontroller/)
-*   [Interface Card Pins](/site/spectralight0200protocol/)
-*   [Unexpected clock](/site/strangeplacetoputaclock/)
+*Notice*
+This repository contains a VERY hasty conversion of HTML to MarkDown.  Links and images are broken.  I had fully planned to abandon this site, however the demand for this information hasn't declined.  Therefor I've moved the information here.  Feel free to help clean this up!
 
 **Overview**
 
