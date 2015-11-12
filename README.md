@@ -17,7 +17,7 @@
 
 **Overview**
 
-This site outlines how to run your SpectraLight CNC mill without using the computer card.<br/>  The impatient should follow [this link](spectralight0200parallelportadapter/) for plans detailing a $5.00 cable.<br/>  This cable enables control of your mill without requiring the computer card.<br/>  Better yet, using this adapter allows you to control your mill using any of the standard controller packages such as EMC2, Mach3, TurboCNC and many others.
+This document outlines how to run your SpectraLight CNC mill without using the computer card.<br/>  The impatient should follow [this link](spectralight0200parallelportadapter/) for plans detailing a $5.00 cable.<br/>  This cable enables control of your mill without requiring the computer card.<br/>  Better yet, using this adapter allows you to control your mill using any of the standard controller packages such as EMC2, Mach3, TurboCNC and many others.
 
 * * *
 
@@ -46,7 +46,7 @@ _Figure 1.<br/>  Getting nerdy on the kitchen table._
 
 The ISA card has a pair of connectors.<br/>  A DB9 socket (female) connector and a DB25 socket connector.<br/>  Only two pins are exposed on the DB9 so I focused my efforts on the DB25\.
 
-Decoding the signals between the card and the controller box proved to be much easier than I expected.<br/>  The only odd finding is that many of the signals were inverted.<br/>  Stepper pulses are sent as zero volt pulses with the signal normally held at +5v.<br/>  Once I realized that fact, and knew to look for inverted logic, the work went quickly.<br/> 
+Decoding the signals between the card and the controller box proved to be much easier than I expected.<br/>  The only odd finding is that many of the signals were inverted from what I expected.<br/>  Stepper pulses are sent as zero volt pulses with the signal normally held at +5v.<br/>  Once I realized that fact, and knew to look for inverted logic, the work went quickly.<br/> 
 
 The remainder of this site douments the communications interface between the controller and the card.<br/>  It also includes plans for a [parallel port interface cable](spectralight0200parallelportadapter/) that allows control of the mill using a the standard parallel port.
 
