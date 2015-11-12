@@ -1,27 +1,6 @@
-<div id="container">
-
-<div id="header">
-
 # Adapter Board
 
 ## SpectraLight 0200 Parallel Port Control
-
-</div>
-
-<div id="navigation">
-
-*   [Home](/site/)
-*   [Adapter Cable](/site/spectralight0200parallelportadapter/)
-*   [Adapter Board](/site/adapterboard/)
-*   [control_box_internals](/site/controlboxinternals/)
-*   [EMC2 Configuration](/site/emc2configuration/)
-*   [Controller Pins](/site/reverseengineeringthecontroller/)
-*   [Interface Card Pins](/site/spectralight0200protocol/)
-*   [Unexpected clock](/site/strangeplacetoputaclock/)
-
-</div>
-
-<div id="content">
 
 ## Overview
 
@@ -58,6 +37,4 @@ As you can see, this much less fragile than my [cross over cable](../spectraligh
 The plan is to add a 5v power regulator and power connectors to this board.  
   Once this is complete we can identify the next roadblock.  
 
-</div>
 
-</div>
