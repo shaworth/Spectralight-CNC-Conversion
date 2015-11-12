@@ -1,12 +1,7 @@
-<div id="container">
-
-<div id="header">
-
 # EMC2 Configuration
 
 ## SpectraLight 0200 Parallel Port Control
 
-</div>
 
 ## Configuration  
 
@@ -18,7 +13,7 @@ These settings are valid for the Adapter Cable
 
  Basic machine settings:
 
-[![](/site/meshcms/generated/emc2configuration/basic.png/org.meshcms.core.ResizedThumbnail/resized-1405201858.jpg)](basic.png)
+[![](basic.png)
 
 Parallel port settings:
 
@@ -30,15 +25,3 @@ Axis configuration
 
  Click on images for full-size view.
 
- </div>
-
-<div id="subcontent">
-
-## Navigation
-
-*   [Home](/site/)
-*   EMC2 Configuration
-
-## User Menu
-
-[Login](/site/meshcms/admin/login.jsp)</div>
