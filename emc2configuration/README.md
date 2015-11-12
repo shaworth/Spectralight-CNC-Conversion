@@ -17,11 +17,11 @@ These settings are valid for the Adapter Cable
 
 Parallel port settings:
 
-[![](/site/meshcms/generated/emc2configuration/parallel.png/org.meshcms.core.ResizedThumbnail/resized-1405201858.jpg)](parallel.png)
+[![](parallel.png)
 
 Axis configuration
 
-[![](/site/meshcms/generated/emc2configuration/axis.png/org.meshcms.core.ResizedThumbnail/resized-1405201858.jpg)](axis.png)
+[![](axis.png)
 
  Click on images for full-size view.
 
